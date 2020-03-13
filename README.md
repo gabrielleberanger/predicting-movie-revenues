@@ -43,3 +43,7 @@ OLS (*Ordinary Least Squares*) model, followed by assumptions checks
     - The ***Harvey Collier test*** shows that the model is not linear.
     - The ***Anderson Darling Test*** shows that residuals are not normally distributed.
     - The ***Het Breusch Pagan Test*** shows that there is a high variance in residuals (heteroskedasticity).
+    
+ #### MAIN LIBRARIES
+ 
+ Scipy, StatsModels, Requests, BeautifulSoup, Selenium
